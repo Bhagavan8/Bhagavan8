@@ -26,6 +26,7 @@ Currently @ <b>Publicis Sapient</b> · Previously PwC, Deloitte, KPMG, eMudhra �
 
 ### 💼 Experience Snapshot
 
+- 🏢 **Publicis Sapient** — Senior Associate, Platform L2 *(Aug 2026 – Present)*
 - 🏢 **PwC India** — Senior Associate, Full Stack Developer *(Sep 2025 – Aug 2026)* — Intuit / TurboTax platform
 - 🏢 **Deloitte USI** — Consultant, Full Stack Developer *(Apr 2022 – Sep 2025)* — 10+ apps shipped, 100K+ users, 30% perf gain
 - 🏢 **KPMG India** — Associate Consultant *(Jul 2021 – Mar 2022)* — audit platform, Java/Spring Boot
@@ -43,8 +44,8 @@ Currently @ <b>Publicis Sapient</b> · Previously PwC, Deloitte, KPMG, eMudhra �
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhagavan8&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagavan8&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="http://187.127.157.97/api?username=Bhagavan8&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170"/>
+  <img src="http://187.127.157.97/api/top-langs/?username=Bhagavan8&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
