@@ -48,10 +48,6 @@ Currently @ <b>Publicis Sapient</b> Â· Previously PwC, Deloitte, KPMG, eMudhra Â
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagavan8&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/Bhagavan8?label=Followers&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/github/stars/Bhagavan8?label=Stars&style=for-the-badge&color=yellow"/>
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Bhagavan8&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=green"/>
